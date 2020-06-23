@@ -68,3 +68,10 @@
       border-radius: 10px;
       color: #19194d;
   }
+footer {
+  padding-top: 30px;
+}
+.footer p {
+  color: #b3aeb5;
+  font: 12px;
+}
